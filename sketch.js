@@ -194,10 +194,14 @@ strokeWeight(8)
 line(378,269,362,237)
 line(399,267,362,237)
 ellipse(382,263,5)
+line(29,184,53,170)
+ellipse(171,158,6)
+ellipse(189,189,5)
+ellipse(16,95,4)
 //mouse location
 
-fill(300);
-noStroke();
-text(mouseX, 10 , 20);
-text(mouseY, 10, 30)
+ fill(300);
+ noStroke();
+ text(mouseX, 10 , 20);
+ text(mouseY, 10, 30)
 }
