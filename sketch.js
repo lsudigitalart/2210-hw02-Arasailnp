@@ -200,8 +200,8 @@ ellipse(189,189,5)
 ellipse(16,95,4)
 //mouse location
 
- fill(300);
- noStroke();
- text(mouseX, 10 , 20);
- text(mouseY, 10, 30)
+//  fill(300);
+//  noStroke();
+//  text(mouseX, 10 , 20);
+//  text(mouseY, 10, 30)
 }
